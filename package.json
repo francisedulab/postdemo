@@ -1,0 +1,17 @@
+{
+  "name": "hwdemo",
+  "version": "1.0.0",
+  "description": "demo of hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-dev index",
+    "dev":"node-dev index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
